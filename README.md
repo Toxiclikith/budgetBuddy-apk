@@ -65,7 +65,7 @@ https://github.com/Toxiclikith/budgetBuddy-apk/releases/latest
 
 Direct APK download:
 
-https://github.com/Toxiclikith/budgetBuddy-apk/downloads/release/budget-buddy.apk
+https://raw.githubusercontent.com/Toxiclikith/budgetBuddy-apk/main/downloads/release/budget-buddy.apk
 
 ---
 
