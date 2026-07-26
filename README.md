@@ -63,6 +63,7 @@ Download the latest APK from the GitHub Releases page:
 
 https://github.com/Toxiclikith/budgetBuddy-apk/releases/latest
 
+
 Direct APK download:
 
 https://raw.githubusercontent.com/Toxiclikith/budgetBuddy-apk/main/downloads/release/budget-buddy.apk
