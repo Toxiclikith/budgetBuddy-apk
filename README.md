@@ -21,8 +21,8 @@ BudgetBuddy is a modern Android personal finance application developed using **J
 
 ### Home
 
-| Home |
-|------|
+| Home | Home |
+|------|------|
 | ![](screenshots/home_1.png) | ![](screenshots/home_2.png) |
 
 ### Ledger
@@ -37,11 +37,11 @@ BudgetBuddy is a modern Android personal finance application developed using **J
 |--------|-------|--------|
 | ![](screenshots/targets_budget.png) | ![](screenshots/targets_goals.png) | ![](screenshots/targets_config.png) |
 
-### Bills
-![Goals](screenshots/bills.png)
+### Bills & Split
 
-### Split
-![Split](screenshots/split.png)
+| Bills | Split |
+|-------|-------|
+| ![](screenshots/bills.png) | ![](screenshots/split.png) |
 
 ---
 
@@ -65,7 +65,7 @@ https://github.com/Toxiclikith/budgetBuddy-apk/releases/latest
 
 Direct APK download:
 
-https://github.com/Toxiclikith/budgetBuddy-apk/app/build/outputs/apk/debug/budget-buddy.apk
+https://github.com/Toxiclikith/budgetBuddy-apk/downloads/release/budget-buddy.apk
 
 ---
 
