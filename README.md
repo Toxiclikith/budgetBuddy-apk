@@ -88,7 +88,7 @@ git clone https://github.com/Toxiclikith/budgetBuddy-apk.git
 
 ## 👨‍💻 Author
 
-Your Name
+Likth C N
 
 GitHub: https://github.com/Toxiclikith
 
