@@ -1,0 +1,6 @@
+{
+  "name": "BudgetBuddy",
+  "description": "BudgetBuddy helps you track every penny and build every dream. Easily manage transactions, plan budgets, set savings goals, track bills, and receive AI-driven spending insights and OCR receipt scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
